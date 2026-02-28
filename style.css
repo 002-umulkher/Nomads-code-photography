@@ -191,7 +191,13 @@ li {
 
 
 /*----------*----------*----------*----------*---------- My Works */
+.my-works {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
 
+  background-color: var(--color-secondary);
+}
 
 
 
