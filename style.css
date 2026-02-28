@@ -340,6 +340,17 @@ li {
   color: var(--color-primary);
 }
 
+.contact__info--link {
+  padding: var(--padding-st-s-v) var(--padding-st-m-h);
+  border-radius: 5rem;
+  font-size: var(--font-size-st-sc);
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  transition: all 0.25s ease-in-out;
+
+  align-self: flex-start;
+}
+
 /*----------*----------*----------*----------*---------- Clients */
 
 
