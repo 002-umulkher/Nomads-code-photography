@@ -245,6 +245,17 @@ li {
 .my-works__imgs--img {
   position: relative;
 }
+
+.my-works__imgs--img::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: var(--color-secondary-m);
+  transition: all 0.25s ease-in-out;
+}
 /*----------*----------*----------*----------*---------- Contact */
 
 
