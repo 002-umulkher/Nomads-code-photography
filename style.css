@@ -196,6 +196,16 @@ li {
   display: block;
 }
 
+.services__service-cards {
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap: 6rem;
+
+  margin-top: 5rem;
+}
+
 
 /*----------*----------*----------*----------*---------- News */
 
