@@ -335,6 +335,10 @@ li {
   gap: 2rem;
 }
 
+.contact__info--title {
+  font-size: var(--font-size-st-mc);
+  color: var(--color-primary);
+}
 
 /*----------*----------*----------*----------*---------- Clients */
 
