@@ -394,6 +394,10 @@ li {
   display: flex;
   flex-direction: column;
 }
+
+.contact__testimonial--info__name {
+  font-size: var(--font-size-st-sc);
+}
 /*----------*----------*----------*----------*---------- Clients */
 
 
