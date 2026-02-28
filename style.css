@@ -266,6 +266,11 @@ li {
   width: 100%;
   object-fit: cover;
 }
+
+.my-works__imgs--img:nth-child(1) {
+  grid-column: 1/ 2;
+  grid-row: 1 / 3;
+}
 /*----------*----------*----------*----------*---------- Contact */
 
 
