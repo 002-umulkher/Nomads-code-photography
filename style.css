@@ -206,6 +206,13 @@ li {
   margin-top: 5rem;
 }
 
+.services__service-cards--card {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem 0;
+
+  padding: var(--padding-st-l-h) 0;
+}
 
 /*----------*----------*----------*----------*---------- News */
 
