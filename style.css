@@ -398,6 +398,11 @@ li {
 .contact__testimonial--info__name {
   font-size: var(--font-size-st-sc);
 }
+
+.contact__testimonial--info__role {
+  font-size: var(--font-size-st-s);
+  color: var(--color-quaternary);
+}
 /*----------*----------*----------*----------*---------- Clients */
 
 
