@@ -367,6 +367,11 @@ li {
   padding: var(--padding-d-mc-v) var(--padding-d-mc-h);
 }
 
+.contact__testimonial--para {
+  padding-left: var(--padding-st-l-h);
+  border-left: 1px solid var(--color-quaternary);
+}
+
 /*----------*----------*----------*----------*---------- Clients */
 
 
