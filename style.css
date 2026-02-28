@@ -355,6 +355,18 @@ li {
   background-color: var(--color-primary);
   color: var(--color-secondary);
 }
+
+.contact__testimonial {
+  flex-basis: 40%;
+
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+
+  background-color: var(--color-primary);
+  padding: var(--padding-d-mc-v) var(--padding-d-mc-h);
+}
+
 /*----------*----------*----------*----------*---------- Clients */
 
 
