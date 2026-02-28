@@ -201,10 +201,8 @@ gap: 3rem;
 }
 
 .hero__content--mini-title {
-
-
-
-  
+font-size: var(--font-size-st-sc);
+  color: var(--color-primary);
 }
 
 
