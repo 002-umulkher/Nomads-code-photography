@@ -383,6 +383,13 @@ li {
   width: 10rem;
 }
 
+.contact__testimonial--info__img img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 /*----------*----------*----------*----------*---------- Clients */
 
 
