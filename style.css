@@ -193,6 +193,12 @@ li {
   gap: 3rem;
 }
 
+.header__nav--link {
+  font-size: var(--font-size-st-sc);
+  color: var(--color-quaternary);
+  transition: all 0.2s ease-in-out;
+}
+
 
 
 
