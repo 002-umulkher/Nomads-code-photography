@@ -217,7 +217,10 @@ li {
   background-color: var(--color-quaternary);
 }
 
-
+.my-works__areas {
+  display: flex;
+  gap: 2rem;
+}
 
 /*----------*----------*----------*----------*---------- Contact */
 
