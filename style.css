@@ -301,6 +301,11 @@ li {
   grid-column: 1 / 2;
   grid-row: 4 / 5;
 }
+
+.my-works__imgs--img:nth-child(8) {
+  grid-column: 2 / 3;
+  grid-row: 4 / 5;
+}
 /*----------*----------*----------*----------*---------- Contact */
 
 
