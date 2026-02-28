@@ -351,6 +351,10 @@ li {
   align-self: flex-start;
 }
 
+.contact__info--link:hover {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+}
 /*----------*----------*----------*----------*---------- Clients */
 
 
