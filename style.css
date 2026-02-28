@@ -312,7 +312,13 @@ li {
   grid-row: 4 / 5;
 }
 /*----------*----------*----------*----------*---------- Contact */
-
+.parallax {
+  height: 100%;
+  width: 100%;
+  background-image: url("images/hero-bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
 
 
 
