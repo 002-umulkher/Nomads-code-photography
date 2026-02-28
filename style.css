@@ -195,7 +195,7 @@ height: 100%;
 
 .hero__content {
 flex-basis: 50%;
-
+display: flex;
 
 
 }
