@@ -327,6 +327,13 @@ li {
   gap: 2rem;
 }
 
+.contact__info {
+  flex-basis: 50%;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
 
 
 /*----------*----------*----------*----------*---------- Clients */
