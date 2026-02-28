@@ -256,6 +256,10 @@ li {
   background-color: var(--color-secondary-m);
   transition: all 0.25s ease-in-out;
 }
+
+.my-works__imgs--img:hover::before {
+  background: none;
+}
 /*----------*----------*----------*----------*---------- Contact */
 
 
