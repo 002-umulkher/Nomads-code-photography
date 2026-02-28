@@ -390,6 +390,10 @@ li {
   border-radius: 50%;
 }
 
+.contact__testimonial--info div {
+  display: flex;
+  flex-direction: column;
+}
 /*----------*----------*----------*----------*---------- Clients */
 
 
