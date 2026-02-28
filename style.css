@@ -218,6 +218,10 @@ li {
   font-size: var(--font-size-st-l);
 }
 
+.services__service-cards--card h3 {
+  font-size: var(--font-size-st-m);
+}
+
 /*----------*----------*----------*----------*---------- News */
 
 
