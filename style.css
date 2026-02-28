@@ -225,6 +225,10 @@ li {
 .services__service-cards--card:nth-child(2n) {
   border-bottom: 1px solid var(--color-quaternary);
 }
+
+.services__service-cards--card:nth-child(2n + 1) {
+  border-top: 1px solid var(--color-quaternary);
+}
 /*----------*----------*----------*----------*---------- News */
 
 
