@@ -222,6 +222,12 @@ li {
   gap: 2rem;
 }
 
+.my-works__areas--area {
+  cursor: pointer;
+  transition: 0.25s ease;
+}
+
+
 /*----------*----------*----------*----------*---------- Contact */
 
 
