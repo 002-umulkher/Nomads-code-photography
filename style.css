@@ -183,6 +183,11 @@ li {
   z-index: -1;
 }
 
+.header__logo {
+  font-size: var(--font-size-st-m);
+  color: var(--color-primary);
+}
+
 
 
 
