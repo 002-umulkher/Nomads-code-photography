@@ -171,6 +171,18 @@ li {
   position: relative;
 }
 
+.header::after {
+  content: "";
+  position: absolute;
+  bottom: -49.5rem;
+  left: 0;
+  height: 50rem;
+  width: 100%;
+  background-color: var(--color-secondary);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 0% 100%, 0% 0%);
+  z-index: -1;
+}
+
 
 
 
