@@ -214,6 +214,10 @@ li {
   padding: var(--padding-st-l-h) 0;
 }
 
+.services__service-cards--card i {
+  font-size: var(--font-size-st-l);
+}
+
 /*----------*----------*----------*----------*---------- News */
 
 
