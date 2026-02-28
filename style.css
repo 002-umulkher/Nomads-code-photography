@@ -260,6 +260,12 @@ li {
 .my-works__imgs--img:hover::before {
   background: none;
 }
+
+.my-works__imgs--img img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
 /*----------*----------*----------*----------*---------- Contact */
 
 
