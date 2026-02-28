@@ -192,6 +192,9 @@ li {
   text-align: center;
 }
 
+.services__para span {
+  display: block;
+}
 
 
 /*----------*----------*----------*----------*---------- News */
