@@ -160,6 +160,16 @@ li {
 }
 
 /*----------*----------*----------*----------*---------- Header */
+.header {
+  background-color: var(--color-secondary);
+  padding: var(--padding-d-m-v) var(--padding-d-l-h);
+
+  display: flex;
+  justify-content: space-between;
+  column-gap: 2rem;
+
+  position: relative;
+}
 
 
 
