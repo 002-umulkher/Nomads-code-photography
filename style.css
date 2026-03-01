@@ -186,6 +186,11 @@ flex-direction: column;
 gap: 2rem;
 }
 
+.personal-info_content--experience{
+display: flex;
+flex-direction: column;
+gap: 2rem;
+}
 
 
 
