@@ -230,6 +230,19 @@ gap: 2rem;
   background-image: url("images/dot.png");
 }
 
+.personal-info__img::after {
+  top: 5%;
+  right: -5%;
+  height: 100%;
+  width: 80%;
+  background-color: var(--color-secondary);
+}
+
+
+
+
+
+
 
 
 /*----------*----------*----------*----------*---------- Services */
