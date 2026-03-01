@@ -245,9 +245,9 @@ gap: 2rem;
   transition: all 0.6s ease-in-out;
 }
 
-
-
-
+.personal-info__img:hover img {
+  transform: scale(0.95);
+}
 
 
 /*----------*----------*----------*----------*---------- Services */
@@ -276,6 +276,16 @@ gap: 2rem;
 
 
 /*----------*----------*----------*----------*---------- Clients */
+.clients {
+  background-color: var(--color-secondary);
+  padding: 0 var(--padding-d-l-h);
+
+  display: flex;
+  justify-content: space-between;
+
+  height: calc(2rem + 5vw);
+}
+
 
 
 
