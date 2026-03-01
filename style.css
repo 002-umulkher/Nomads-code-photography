@@ -286,6 +286,10 @@ gap: 2rem;
   height: calc(2rem + 5vw);
 }
 
-
+.clients__client img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
 
 /*----------*----------*----------*----------*---------- Footer */
