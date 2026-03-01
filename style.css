@@ -222,7 +222,13 @@ gap: 2rem;
   z-index: -1;
 }
 
-
+.personal-info__img::before {
+  top: -7%;
+  left: 14%;
+  width: 50%;
+  height: 50%;
+  background-image: url("images/dot.png");
+}
 
 
 
