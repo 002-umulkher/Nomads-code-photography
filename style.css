@@ -192,7 +192,11 @@ flex-direction: column;
 gap: 2rem;
 }
 
-
+.personal-info__content--experience div {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
 
 
 
