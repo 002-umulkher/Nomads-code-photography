@@ -238,7 +238,12 @@ gap: 2rem;
   background-color: var(--color-secondary);
 }
 
-
+.personal-info__img img {
+  height: 80%;
+  width: 80%;
+  object-fit: cover;
+  transition: all 0.6s ease-in-out;
+}
 
 
 
