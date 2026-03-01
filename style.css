@@ -198,6 +198,13 @@ gap: 2rem;
   gap: 2rem;
 }
 
+.personal-info__content--experience div i {
+  font-size: var(--font-size-st-sc);
+  padding: var(--padding-st-s-v);
+  border-radius: 50%;
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
+}
 
 
 
