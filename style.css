@@ -215,6 +215,17 @@ gap: 2rem;
   position: relative;
 }
 
+.personal-info__img::before,
+.personal-info__img::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+}
+
+
+
+
+
 /*----------*----------*----------*----------*---------- Services */
 
 
